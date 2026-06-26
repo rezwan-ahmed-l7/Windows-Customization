@@ -1,8 +1,8 @@
 # Windows Customization
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=black" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=black" />
+  <img src="https://img.shields.io/badge/JSON-5391FE?style=for-the-badge&logo=json&logoColor=black" />
+  <img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=black" />
   <img src="https://img.shields.io/badge/Config-4285F4?style=for-the-badge&logo=files&logoColor=black" />
 </p>
 
