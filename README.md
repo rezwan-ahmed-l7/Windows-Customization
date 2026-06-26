@@ -8,15 +8,15 @@ This repository contains my personal configuration files, themes, and customizat
 
 ---
 
-## Contents
+# Contents
 
-# 1. Terminal Customization
+## 1. Terminal Customization
 - Windows Terminal `settings.json`
 - PowerShell profile configuration
 - Custom color schemes & themes
 - ASCII art & startup scripts
 
-# 2. Mouse & Cursor Customization
+## 2. Mouse & Cursor Customization
 - Custom mouse cursor themes
 - Cursor files and configurations
 - Different cursor packs
