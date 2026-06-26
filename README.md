@@ -1,6 +1,11 @@
 # Windows Customization
 
 <p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+</p>
+
+<p align="center">
   Personal Windows 11 setup & customization files for a clean, aesthetic and productive desktop environment.
 </p>
 
