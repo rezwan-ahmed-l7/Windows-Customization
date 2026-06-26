@@ -1,1 +1,30 @@
-# Prerequisites
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary & Log files
+*.tmp
+*.temp
+*.log
+cache/
+
+# Large unwanted files
+*.bin
+*.exe
+*.msi
+
+# Backup files
+*.bak
+*.backup
+
+# Windows specific junk
+$RECYCLE.BIN/
+System Volume Information/
