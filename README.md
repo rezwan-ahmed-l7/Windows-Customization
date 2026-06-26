@@ -1,13 +1,13 @@
 # Windows Customization
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JSON-5391FE?style=for-the-badge&logo=json&logoColor=black" />
-  <img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=black" />
-  <img src="https://img.shields.io/badge/Config-4285F4?style=for-the-badge&logo=files&logoColor=black" />
+  <img src="https://img.shields.io/badge/JSON-C71A36?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Config-4285F4?style=for-the-badge&logo=files&logoColor=white" />
 </p>
 
 <p align="center">
-  Personal Windows 11 setup & customization files for a clean, aesthetic and productive desktop environment.
+  Windows 11 setup & customization files for a clean, aesthetic, and productive desktop environment.
 </p>
 
 # About the Repository
@@ -18,13 +18,15 @@ This repository contains my personal configuration files, themes, and customizat
 
 # Contents
 
-## 1. Terminal Customization
+## 1. Terminal
+
 - Windows Terminal `settings.json`
 - PowerShell profile configuration
 - Custom color schemes & themes
 - ASCII art & startup scripts
 
-## 2. Mouse & Cursor Customization
+## 2. Cursor
+
 - Custom mouse cursor themes
 - Cursor files and configurations
 - Different cursor packs
@@ -46,6 +48,13 @@ This repository contains my personal configuration files, themes, and customizat
 - PowerShell 7
 - Windows 11
 - Custom cursor tools
+
+---
+
+# Future Improvements
+
+- Taskbar Customization
+- Others
 
 ---
 
