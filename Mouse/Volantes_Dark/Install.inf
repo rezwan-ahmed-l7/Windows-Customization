@@ -1,0 +1,56 @@
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur, Scheme.Txt
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%,%10%\%CUR_DIR%\%location%,%10%\%CUR_DIR%\%person%"
+
+[Scheme.Cur]
+Normal.cur
+Help.cur
+WorkingInBackground.ani
+Busy.ani
+IBeam.cur
+Forbidden.cur
+Vertical.cur
+Horizontal.cur
+Frontslash.cur
+Backslash.cur
+Move.cur
+Link.cur
+Precision.cur
+Pencil.cur
+Alternate.cur
+Location.cur
+Person.cur
+
+
+[Scheme.Txt]
+
+[Strings]
+CUR_DIR       = "Volantes Dark"
+SCHEME_NAME   = "Volantes Dark"
+pointer       = "Normal.cur"
+help          = "Help.cur"
+work          = "WorkingInBackground.ani"
+busy          = "Busy.ani"
+text          = "IBeam.cur"
+unavailiable  = "Forbidden.cur"
+vert          = "Vertical.cur"
+horz          = "Horizontal.cur"
+dgn1          = "Backslash.cur"
+dgn2          = "Frontslash.cur"
+move          = "Move.cur"
+link          = "Link.cur"
+cross         = "Precision.cur"
+hand          = "Pencil.cur"
+alternate     = "Alternate.cur"
+location      = "Location.cur"
+person        = "Person.cur"
