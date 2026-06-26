@@ -1,6 +1,8 @@
 # Windows Customization
 
-Personal Windows 11 setup & customization files for a clean, aesthetic and productive desktop environment.
+<p align="center">
+  Personal Windows 11 setup & customization files for a clean, aesthetic and productive desktop environment.
+</p>
 
 # About the Repository
 
