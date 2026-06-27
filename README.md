@@ -1,4 +1,4 @@
-# Windows Customization ⚠️ Under Customization ⚠️
+# Windows Customization ⚠️ Progressing ⚠️
 
 <p align="center">
   <img src="https://img.shields.io/badge/JSON-C71A36?style=for-the-badge&logo=json&logoColor=white" />
