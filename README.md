@@ -82,7 +82,7 @@ Although the software and tools included in this repository are open-source proj
 
 <!-- Home/Desktop Screenshot -->
 
-<img width="900" alt="Windows Desktop" src="YOUR_SCREENSHOT_LINK_HERE"/>
+<img width="900" alt="Screenshot 2026-06-27 180059" src="https://github.com/user-attachments/assets/4e391816-9251-4007-ae76-d4786260465e"/>
 
 </p>
 
@@ -131,30 +131,6 @@ Copy the desired configuration files into their respective locations.
 ## 3. Restart Windows Terminal / PowerShell
 
 Restart the applications to apply the changes.
-
----
-
-# Repository Structure
-
-```bash
-Windows-Customization/
-│
-├── Clock/
-│
-├── Cursor/
-│
-├── Terminal/
-│   ├── settings.json
-│   ├── Microsoft.PowerShell_profile.ps1
-│   ├── config.json
-│   └── ASCII/
-│
-├── Home Screen.png
-│
-├── .gitignore
-├── LICENSE
-└── README.md
-```
 
 ---
 
